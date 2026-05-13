@@ -470,7 +470,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 }
 .aside-card .btn { width: 100%; justify-content: center; }
 
-/* --- Prestations --- */
+/* --- Prestations --- */ 
 .service-prestations { background: var(--bg); }
 .prestations-grid {
   display: grid;
